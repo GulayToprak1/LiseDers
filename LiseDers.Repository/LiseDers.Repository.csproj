@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LiseDers.Data\LiseDers.Data.csproj" />
+    <ProjectReference Include="..\LiseDers.Model\LiseDers.Model.csproj" />
+  </ItemGroup>
+
+</Project>
